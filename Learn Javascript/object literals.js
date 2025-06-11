@@ -5,6 +5,7 @@ const person={
         street:"TVS ",
         city:"palladam",
         Distrct:"itirupur",
+        pincode:64167,
 
     }
 
