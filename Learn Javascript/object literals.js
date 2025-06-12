@@ -35,7 +35,7 @@ person.greet = function(){
 person.greet();
 
 const person={
-    
+
 }
 
 
