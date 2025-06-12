@@ -16,7 +16,7 @@ console.log(obj3);
 console.log("using assign : "+obj4);
 
 //creating a constructor
-
+const person = new person();
 
 
 x=todo;
