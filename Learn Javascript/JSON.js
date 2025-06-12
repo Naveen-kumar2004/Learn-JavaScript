@@ -36,3 +36,4 @@ console.log("array obj is: ",str2);
 console.log(str.id); // undefined
 console.log(obj.id);
 
+//
