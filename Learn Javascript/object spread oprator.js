@@ -1,9 +1,11 @@
 let x;
 
-const todo= new Object();
-todo.id=1;
-todo.name="milk";
-todo.completed=false;
+// const todo= new Object();
+// todo.id=1;
+// todo.name="milk";
+// todo.completed=false;
+
+
 
 // object spreading 
 const obj1={a:1,b:2};
@@ -16,7 +18,7 @@ console.log(obj3);
 console.log("using assign : "+obj4);
 
 //creating a constructor
-const person = new person(); hfgjghjh
+
 
 
 x=todo;
