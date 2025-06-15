@@ -47,4 +47,4 @@ function randNum(arr)
 randNum([1,66,23,12,7,9]);
 //-----------------------------------------------------------
 //Global scope
-window.alert("user")
+window.alert("user")  
